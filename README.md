@@ -1,6 +1,3 @@
-# AI model integration 
-Get weather data for 14 days of forecast, not 3 days
-## video link: https://drive.google.com/file/d/1YLx45bhSSMKROtTjBJVEy1LBi9KLOuZV/view?usp=sharing
 # OutOfNot: Weather Forecast & AI Recommendation App ⛅✨
 
 ---
@@ -15,7 +12,7 @@ Get weather data for 14 days of forecast, not 3 days
 | ![Home](screenshot/w2.PNG) | ![Safe](screenshot/w3.PNG) | ![Not Safe](screenshot/w4.PNG) |
 
 ---
-
+<a href="https://drive.google.com/file/d/1YLx45bhSSMKROtTjBJVEy1LBi9KLOuZV/view?usp=sharing">🎥 Demo Video</a>
 ## 🧭 Project Overview
 
 - 🔎 **14-Day Weather Forecast:** Get detailed weather updates for the entire week.
