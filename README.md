@@ -11,8 +11,8 @@ Get weather data for 14 days of forecast, not 3 days
 
 | | | |
 |--|--|--|
-| ![Login](screenshot/w1.PNG) | ![Welcome](screenshots/welcome.png) | ![Register](screenshots/register.png) |
-| ![Home](screenshots/home.png) | ![Safe](screenshots/safe.png) | ![Not Safe](screenshots/notsafe.png) |
+| ![Login](screenshot/w1.PNG) | ![Welcome](screenshot/w2.PNG) | ![Register](screenshot/w3.PNG) |
+| ![Home](screenshot/w4.PNG) | ![Safe](screenshot/w5.PNG) | ![Not Safe](screenshot/w6.PNG) |
 
 ---
 
